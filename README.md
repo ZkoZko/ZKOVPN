@@ -1,2 +1,0 @@
-# ZKOVPN
-ZKOVPN
