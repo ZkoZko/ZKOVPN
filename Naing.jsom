@@ -17,11 +17,17 @@
 ,
 
 {
-         "name": "TH-True-Dtac-Free",
-         "url": "https://github.com/ChitVPN/Chit/raw/main/TH-True-Dtac-Free.ovpn"
+         "name": "TH-True-Dtac-Free1",
+         "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-True-Free1.ovpn"
       }
 
 
+,
+
+{
+         "name": "TH-True-Dtac-Free2",
+         "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-True-Free2.ovpn"
+      }
 
    ],
 "message":"
@@ -33,5 +39,5 @@
 🚀Update 4/2/2023🚀
 \n\nဖိုင်ဗားရှင်း1",
 "title":"New Update File" ,
-   "version":1
+   "version":2
 }
