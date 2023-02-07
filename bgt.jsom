@@ -2,22 +2,22 @@
    "files": [ 
 
 {
-         "name": "Thailand-VIP1",
+         "name": "Thailand-VIP-1",
          "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-T-D-VIP1.ovpn"
       },
 
 {
-         "name": "Thailand-VIP2",
+         "name": "Thailand-VIP-2",
          "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-T-D-VIP2.ovpn"
       },
 
 {
-         "name": "Thailand-FREE1",
+         "name": "Thailand-FREE-1",
          "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-True-Free1.ovpn"
       },
 
 {
-         "name": "Thailand-FREE2",
+         "name": "Thailand-FREE-2",
          "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-True-Free2.ovpn"
       }
 
