@@ -2,10 +2,13 @@
    "files": [    
 
 {
-         "name": "Thailand-001",
+         "name": "Thailand-Vip-1",
          "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-IP.ovpn"
       }
-
+{
+         "name": "Thailand-Vip-2",
+         "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-IP.ovpn"
+      }
 
 
   ],
