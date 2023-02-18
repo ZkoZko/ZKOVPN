@@ -3,60 +3,33 @@
 
 
 {
-         "name": "TH-VIP-DTAC",
-         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B81.ovpn"
-      }
-,
-
-{
-         "name": "TH-VIP-DTAC-GAMES01",
-         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B82.ovpn"
-      }
-,
-
-{
-         "name": "TH-VIP-DTAC-GAMES02",
-         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B83.ovpn"
-      }
-,
-{
-         "name": "TH-VIP-DTAC03",
-         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B84.ovpn"
-      }
-,
-{
-         "name": "TH-VIP-DTAC04",
-         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B85.ovpn"
-      }
-,
-{
-         "name": "TH-VIP-DTAC-GAMES05",
-         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B86.ovpn"
+         "name": "TH-Dtac-True-VIP-1",
+         "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-Dtac-True-VIP-1.ovpn"
       }   
 ,
 {
-         "name": "TH-VIP-True-GAMES01",
-         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B87.ovpn"
+         "name": "TH-Dtac-True-VIP-2",
+         "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-Dtac-True-VIP-2.ovpn"
       }
 ,
 {
-         "name": "TH-VIP-True-GAMES02",
-         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B88.ovpn"
+         "name": "TH-Dtac-True-free-1",
+         "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-Dtac-True-free-1.ovpn"
       }
 ,
 {
-         "name": "TH-VIP-True03",
-         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B89.ovpn"
+         "name": "TH-Dtac-True-free-2",
+         "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-Dtac-True-free-2.ovpn"
       }   
 ,
 {
-         "name": "TH-VIP-True04",
-         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B810.ovpn"
+         "name": "TH-Dtac-True-free-3",
+         "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-Dtac-True-free-3.ovpn"
       }
 ,      
 {
-         "name": "TH-VIP-True-GAMES05",
-         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B811.ovpn"
+         "name": "TH-Dtac-True-free-4",
+         "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-Dtac-True-free-4.ovpn"
       }   
       
    ],
