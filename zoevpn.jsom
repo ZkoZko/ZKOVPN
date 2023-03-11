@@ -1,33 +1,39 @@
-
+{
    "files": [    
- 
+
+
 {
-       "name": "TH-TRUE-DTAC-VIP-1",
-         "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-T-D-VIP1.ovpn"
-      },
+         "name": "TH-Dtac-True-VIP-1",
+         "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-Dtac-True-VIP-1.ovpn"
+      }   
+,
 {
-       "name": "TH-TRUE-DTAC-VIP-2",
-         "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-T-D-VIP2.ovpn"
-      },
-{
-       "name": "TH-TRUE-DTAC-FREE-1",
-         "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-True-Free1.ovpn"
-      },
-{
-       "name": "TH-TRUE-DTAC-FREE-2",
-         "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-True-Free2.ovpn"
+         "name": "TH-Dtac-True-VIP-2",
+         "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-Dtac-True-VIP-2.ovpn"
       }
-
- ],
-"message":"🔰 Update function to page load
-
-• VIP | 1Month - 50Baht
-• SG-Free Servers
-• TH-VIP Servers
-• DTAC-NoPro
-• TRUE-NoPro
-• Quick connection⚡
-• Thank you for using😊",
-"title":"Config version - 10 ",
-   "version": 10
+,
+{
+         "name": "TH-Dtac-True-free-1",
+         "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-True-Free1.ovpn"
+      }
+,
+{
+         "name": "TH-Dtac-True-free-2",
+         "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-True-Free2.ovpn"
+      }   
+   
+   ],
+"message":"
+✯✰★18/2/2023★✰✯
+🔔ဖိုင်အားအပ်ဒိတ်ပေးခဲ့ပါသည်🔔
+───❁🙏🙏🙏❁───
+❁သင်ဆရာ👨‍🏫/မြင်ဆရာများ👨‍🏫❁
+✴လေးစားလျှတ်ပါ✴
+🇹🇭𝘼𝙙𝙙 𝙏𝙝𝙖𝙞𝙡𝙖𝙣𝙙🇹🇭
+☞︎︎︎𝐷𝑇𝐴𝐶-𝑇𝑅𝑈𝐸-➌⓿𝑑𝑎𝑦-➎⓿𝑏☜︎︎︎
+ ✯✯✯🅩🅘🅝.🅚🅞.🅞🅞✯✯✯
+✯✰★ကျေးဇူးအထူးတင်ရှိပါသည်★✰✯
+\n\nFb: Z.K.O",
+"title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
+   "version":1
 }
