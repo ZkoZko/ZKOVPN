@@ -2,27 +2,19 @@
    "files": [   
       
 {
-       "name": "FREE-DTAC-TRUE-1",
+       "name": "FREE-DTAC-1",
          "url": "https://raw.githubusercontent.com/Pkvipvpn/vip/main/Ttt.ovpn"
       },
 {
-       "name": "FREE-DTAC-TRUE-2",
+       "name": "FREE-TRUE-2",
          "url": "https://raw.githubusercontent.com/Pkvipvpn/vip/main/SmartGStories%20(2).ovpn"
       },
 {
-       "name": "TH-DTAC-GAME-VIP-01",
+       "name": "TH-DTAC-VIP-01",
          "url": "https://raw.githubusercontent.com/Pkvipvpn/vip/main/TH-DTAC-TRUE-VIP-1.ovpn"
       },
 {
-       "name": "TH-DTAC-GAME-VIP-02",
-         "url": "https://raw.githubusercontent.com/Pkvipvpn/vip/main/TH-DTAC-TRUE-VIP-1.ovpn"
-      },
-{
-       "name": "TH-TRUE-GAME-VIP-03",
-         "url": "https://raw.githubusercontent.com/Pkvipvpn/vip/main/TH-DTAC-TRUE-VIP-1.ovpn"
-      },
-{
-       "name": "TH-TRUE-GAME-VIP-04",
+       "name": "TH-TRUE-VIP-02",
          "url": "https://raw.githubusercontent.com/Pkvipvpn/vip/main/TH-DTAC-TRUE-VIP-1.ovpn"
       }
 
