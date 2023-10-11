@@ -4,17 +4,12 @@
 
 {
          "name": "TH-Dtac-True-VIP-1",
-         "url": "https://raw.githubusercontent.com/ZkoZko/ZKOVPN/main/ZKO-02VIP.ovpn"
+         "url": "https://raw.githubusercontent.com/ZkoZko/ZKOVPN/main/ZKO-3.ovpn"
       }
 ,
 {
          "name": "TH-Dtac-True-VIP-2",
          "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-Dtac-True-VIP-2.ovpn"
-      }
-,
-{
-         "name": "TH-Dtac-True-free-1",
-         "url": "https://raw.githubusercontent.com/ZkoZko/ZKOVPN/main/ZKOvip-Free1.ovpn"
       }
 ,
 {
@@ -24,7 +19,7 @@
    
    ],
 "message":"
-✯✰★7/9/2023★✰✯
+✯✰★11/10/2023★✰✯
 🔔ဖိုင်အားအပ်ဒိတ်ပေးခဲ့ပါသည်🔔
 ───❁🙏🙏🙏❁───
 ❁သင်ဆရာ👨‍🏫/မြင်ဆရာများ👨‍🏫❁
@@ -35,5 +30,5 @@
 ✯✰★ကျေးဇူးအထူးတင်ရှိပါသည်★✰✯
 \n\nFb: Z.K.O",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":4
+   "version":5
 }
