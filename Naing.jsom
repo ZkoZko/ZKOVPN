@@ -5,28 +5,13 @@
 
 {
          "name": "TH-True-Dtac-Vip1",
-         "url": "https://raw.githubusercontent.com/ZkoZko/ZKOVPN/main/ZKO-02VIP.ovpn"
+         "url": "https://raw.githubusercontent.com/ZkoZko/ZKOVPN/main/TH-Dtac-True-plan1.ovpn"
       }
 ,
 
 {
          "name": "TH-True-Dtac-Vip2",
-         "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-T-D-VIP2.ovpn"
-      }
-
-,
-
-{
-         "name": "TH-True-Dtac-Free1",
-         "url": "https://raw.githubusercontent.com/ZkoZko/ZKOVPN/main/ZKOvip-Free1.ovpn"
-      }
-
-
-,
-
-{
-         "name": "TH-True-Dtac-Free2",
-         "url": "https://github.com/ZkoZko/ZKOVPN/raw/main/TH-True-Free2.ovpn"
+         "url": "https://raw.githubusercontent.com/ZkoZko/ZKOVPN/main/TH-Dtac-True-plan2.ovpn"
       }
 
    ],
@@ -42,5 +27,5 @@
 ☞︎︎︎𝐷𝑇𝐴𝐶&𝑇𝑅𝑈𝐸➌⓿-𝑑𝑎𝑦➎⓿𝑏☜︎︎︎
 \n\nဖိုင်ဗားရှင်း4",
 "title":"New Update File" ,
-   "version":2
+   "version":3
 }
