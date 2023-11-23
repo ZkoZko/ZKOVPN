@@ -9,7 +9,7 @@
 
 {
 
-         "name": "DTAC-TH-LAZADA PLAN-01",
+         "name": "DTAC-TH-Line12 PLAN-01",
 
          "url": "https://raw.githubusercontent.com/ZkoZko/ZKOVPN/main/TH-Dtac-True-plan1.ovpn"
 
@@ -19,31 +19,11 @@
 
 {
 
-         "name": "DTAC-TH-LAZADA PLAN-02",
+         "name": "DTAC-TH-Line12 PLAN-02",
 
          "url": "https://raw.githubusercontent.com/ZkoZko/ZKOVPN/main/TH-Dtac-True-plan2.ovpn"
 
       }
-
-      ,
-
-   {
-
-         "name": "True-TH-Youtube PLAN-01",
-
-         "url": "https://raw.githubusercontent.com/ZkoZko/ZKOVPN/main/TH-Dtac-True-plan1.ovpn"
-
-      }
-
-      ,
-
-{
-
-         "name": "True-TH-Youtube PLAN-02",
-
-         "url": "https://raw.githubusercontent.com/ZkoZko/ZKOVPN/main/TH-Dtac-True-plan2.ovpn"
-
-      }  
 
    ],
 
